@@ -1,2 +1,2 @@
 initial
-nowa linia main
+nowa linia branch1
